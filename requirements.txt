@@ -1,0 +1,9 @@
+*IDE visual studio 2019
+
+#python 3.9.1
+
+#imports
+* requests 2.25.1
+* json
+* os
+* system
